@@ -11,4 +11,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/exploit-luau/script/r
 🔴 = Doesn't work.
 ## Discord
 Join our Discord to see updates on the script and a more accurate/up-to-date status.
-#### https://discord.gg/29XJksD54N
+#### https://discord.gg/2Mf5RF7M5s
